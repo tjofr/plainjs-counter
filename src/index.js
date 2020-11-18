@@ -16,7 +16,7 @@ template.innerHTML = `
       height: 4rem;
       border: none;
       border-radius: 10px;
-      background-color: seagreen;
+      background-color: blue;
       color: white;
     }
   </style>
